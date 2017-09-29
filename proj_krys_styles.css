@@ -5,11 +5,19 @@
 	text-decoration: none;
 }
 #about {
-	float: right;
+	float: left;
+	padding: 0.1em;
+}
+#contact {
+	float: left;
+	padding: 0.1em;
+}
+#home {
+	float: left;
 	padding: 0.1em;
 }
 #logo {
-	float: left;
+	float: right;
 }
 #works {
 	float: left;
